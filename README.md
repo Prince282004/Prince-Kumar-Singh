@@ -1,3 +1,4 @@
+![logo](https://raw.githubusercontent.com/Prince282004/Prince-Kumar-Singh/5d349f6b7f375fd7cf3f30879b7ecd6558c41727/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Prince Kumar Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
